@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirebaseUIAuthMCVE</string>
+    <string name="signed_in_message">Signed in as %1$s</string>
+</resources>
